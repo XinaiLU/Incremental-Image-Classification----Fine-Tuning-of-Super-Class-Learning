@@ -1,4 +1,5 @@
-# Superclass Learning with Representation Enhancement
+# 这个竞赛是对以下论文代码，在新Setting下的调优~
+## Superclass Learning with Representation Enhancement
 
 This is the official repo of the CVPR 2023 paper Superclass Learning with Representation Enhancement and its extension.
 
